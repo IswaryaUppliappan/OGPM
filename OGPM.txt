@@ -1,0 +1,21 @@
+
+When testing to be done ?
+
+ It is always better to test the application from the beginning of SDLC rather than waiting for the testing phase.
+ Testing to be done when test plan, test cases etc are written and approved
+ Once the build is given to QA team to test
+ When test data is ready,testing can be done .
+
+Why testing of an application is required?
+
+1. The testing is important since it discovers defects/bugs before the delivery to the client, 
+   which guarantees the quality of the software.
+2. It makes the software more reliable and easy to use.
+3. Thoroughly tested software ensures reliable and high-performance software operations.
+4. To identify defects
+5. To reduce flaws in the component or system
+6. Increase the overall quality of the system
+
+
+
+   
